@@ -1,0 +1,29 @@
+╔══════════════════════════════════════════════╗
+║Data Analytics on Passwords Pattern of Users  ║
+╚══════════════════════════════════════════════╝
+
+╔════════════════════════════════════════╗
+║    INSTALLATION AND USING PROCEDURE    ║
+╚════════════════════════════════════════╝
+Software And Packages Required:
+
+   1.  R download from (for windows) https://cran.r-project.org/bin/windows/base/ and Install
+   2.  R Studio download (for windows) https://www.rstudio.com/products/rstudio/download/ and install
+   3.  Two Dataset files "passwords.csv" and "PwdSet.csv" is given along with code
+
+Steps to Run the program are following:
+
+After installation of R and R Studio do the following:
+1. If you don't know how to set working directory of R Studio then copy files 
+   "passwords.csv" and "PwdSet.csv" to your Documents folder
+2. Open file "Data_Analytics_on_Passwords_Pattern_of_Users.R" in R Studio, this files contains 
+   complete program code with description.
+3. To Run from Top to bottom place cursor to top line then for executing each line press CTRL + Enter 
+   or from mouse select the code by clicking and draging and then click on run in R Studio.
+4. Result with source code execution will be shown to the console window which is at bottom.
+
+5. All graph or plot will be displayed in bottom right Plot Area.
+
+Try to understand the code and analysis
+
+THANKING YOU
