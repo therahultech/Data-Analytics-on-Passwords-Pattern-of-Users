@@ -1,0 +1,2 @@
+# Data-Analytics-on-Passwords-Pattern-of-Users
+The password is one of the popular and easy to use authentication mechanism used in the various system for secure and authorized access to information. The users are free to choose a password within a defined set of characters such as uppercase, lowercase, digits, and special symbols (!@#$%^&amp;*() etc.). In this we are analysing password usage from password dataset which is having millions of real users passwords collected from various system breaches.
